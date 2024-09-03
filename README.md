@@ -40,3 +40,6 @@ Sinta-se à vontade para contribuir com este projeto! Você pode adicionar mais 
 ## 📧 Contato
 
 Se tiver alguma dúvida ou sugestão, entre em contato através do email: ajunior220905@gmail.com
+
+## 📜 Licença
+Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE.md para mais detalhes.
